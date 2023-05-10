@@ -1,5 +1,0 @@
-setup.py
-BackMongo100K.egg-info/PKG-INFO
-BackMongo100K.egg-info/SOURCES.txt
-BackMongo100K.egg-info/dependency_links.txt
-BackMongo100K.egg-info/top_level.txt
